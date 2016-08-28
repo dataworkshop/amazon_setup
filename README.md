@@ -1,4 +1,4 @@
-# Simple Setup on Amazon
+# Simple Setup in Amazon
 
 ![Sign in to aws console](https://raw.githubusercontent.com/dataworkshop/amazon_setup/master/images/1.png)
 ![Sign in or create an aws account](https://raw.githubusercontent.com/dataworkshop/amazon_setup/master/images/2.png)
